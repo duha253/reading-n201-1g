@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## What is JavaScript ?
+JavaScript is a cross-platform, object-oriented scripting language used mainly for enhancing the interaction of a user with the webpage. In other words, you can make your webpage more lively and interactive, with the help of JavaScript( having animations, clickable buttons, popup menus, etc.).
 
-You can use the [editor on GitHub](https://github.com/duha253/reading-n201-1g/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## JavaScript (Js), What is Js and why we use it?
+Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web, as it enables interactive web pages which is an essential part of modern and interactive web applications. Javascript allow us to reload only a portion of the webpage instead of loading the whole page which is time consuming. The vast majority of websites and web applications use javascript for client-side page behavior and all major web browsers have a dedicated JavaScript engine to execute it.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is a Script? A script is a series of instructions a computer (e.g., the browser) can understand and follow to make actions in order to achieve a goal a user desires.
 
-```markdown
-Syntax highlighted code block
+**In order to code a good script, you first need to understand the problem you need to solve using the script. Then, you need to break down the goal you want to achieve into a series of sub-goals. You might need to organize your work using a flowchart. However, then you can start coding your script for achieving each sub-goal you sat until you solve the whole problem.
 
-# Header 1
-## Header 2
-### Header 3
+⦁	A script is a series of instructions that the computer can follow in order to achieve a goal.
 
-- Bulleted
-- List
+⦁	Each time the script runs, it might only use a subset of all the instructions.
 
-1. Numbered
-2. List
+⦁	Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
 
-**Bold** and _Italic_ and `Code` text
+⦁	To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER?
+⦁	- It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension.
+⦁	- The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
+⦁	- If you view the source code of the page in the browser, the JavaScript will not have changed the HTML,because the script works with the model of the web page that the browser has created. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duha253/reading-n201-1g/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
